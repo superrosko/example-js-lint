@@ -1,0 +1,36 @@
+{
+  "name": "example-js-lint",
+  "version": "1.0.0",
+  "description": "A simple example of using ESLint with a gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superrosko/example-js-lint.git"
+  },
+  "keywords": [
+    "js",
+    "lint",
+    "eslint",
+    "gulp",
+    "npm"
+  ],
+  "author": "Dmitriy Bespalov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superrosko/example-js-lint/issues"
+  },
+  "homepage": "https://github.com/superrosko/example-js-lint#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0",
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0"
+  }
+}
