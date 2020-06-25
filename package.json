@@ -1,6 +1,6 @@
 {
   "name": "example-js-lint",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A simple example of using ESLint with a gulp",
   "main": "index.js",
   "scripts": {
